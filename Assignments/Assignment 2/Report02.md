@@ -1,10 +1,9 @@
 # Assignment 2 Report – Strings and the Collection Framework
 
-**Student:** NITHYA SHREE.S
-**Register Number:** 1924260372
+**Student:**  A.R.AFREEN FARIHA
+**Register Number:** 192571025
 
-**Course Outcome:** CO2  
-**GitHub:** https://github.com/nithya-shree27/CSA0905-JAVA.git
+**Course Outcome:**https://github.com/192571025simats-netizen/java-program-assignment
 
 ### **Aim**
 
