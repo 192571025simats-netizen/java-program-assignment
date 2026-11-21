@@ -1,9 +1,9 @@
 # Assignment 5 Report – Data Persistence Engineering – Files and Databases
 
-**Student:** NITHYA SHREE.S
-**Register Number:** 1924260372
+**Student:**AFREEN FARIHA
+**Register Number:** 192571025
 **Course Outcome:** CO5  
-**GitHub:** https://github.com/nithya-shree27/CSA0905-JAVA.git
+**GitHub:** https://github.com/192571025simats-netizen/java-program-assignment
 
 ## Aim
 
