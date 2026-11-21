@@ -2,8 +2,8 @@
 
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO1  
-**Student:** NITHYA SHREE.S
-**Register Number:** 1924260372
+**Student:** A.R.AFREEN FARIHA 
+**Register Number:** 192571025
 
 
 ## Coverage
