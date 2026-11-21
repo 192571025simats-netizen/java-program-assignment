@@ -1,9 +1,9 @@
 # Assignment 1 Report – Campus Smart-Parking System
 
-**Student:** NITHYA SHREE.S
-**Register Number:** 1924260372
+**Student:** A.R.AFREEN FARIHA
+**Register Number:** 192571025
 **Course Outcome:** CO1  
-**GitHub:**https://github.com/nithya-shree27/CSA0905-JAVA.git
+**GitHub:https://github.com/192571025simats-netizen/java-program-assignment
 
 ## Aim
 
