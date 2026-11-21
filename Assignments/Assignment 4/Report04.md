@@ -1,10 +1,10 @@
 # Assignment 4 Report – Event-Driven GUI Design
 
-**Student:** NITHYA SHREE.S
+**Student:**AFREEN FARIHA
 
-**Register Number:** 1924260372
+**Register Number:** 192571025
 **Course Outcome:** CO4  
-**GitHub:** https://github.com/nithya-shree27/CSA0905-JAVA.git
+**GitHub:** https://github.com/192571025simats-netizen/java-program-assignment
 
 ## Aim
 
