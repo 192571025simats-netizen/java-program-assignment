@@ -1,10 +1,10 @@
 # Assignment 3 Report – Exception Handling and Multithreading
 
-**Student:** NITHYA SHREE.S
+**Student:**AFREEN FARIHA
 
-**Register Number:** 1924260372
+**Register Number:** 192571025
 **Course Outcome:** CO3  
-GitHub:https://github.com/nithya-shree27/CSA0905-JAVA.git
+https://github.com/192571025simats-netizen/java-program-assignment
 
 ### Aim
 
